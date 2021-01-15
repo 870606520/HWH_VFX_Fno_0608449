@@ -18,9 +18,9 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 740
+    x: 730
     y: -296
-    width: 1149
+    width: 1159
     height: 2225
 --- !u!114 &114350483966674976
 MonoBehaviour:
@@ -1267,8 +1267,8 @@ VisualEffectResource:
         - m_ExpressionIndex: 5
           m_Value:
             serializedVersion: 2
-            key0: {r: 0.9528302, g: 0.31910825, b: 0.60098255, a: 0}
-            key1: {r: 0.44800892, g: 0.2663314, b: 0.990566, a: 1}
+            key0: {r: 0.9529412, g: 0.69579965, b: 0.3176471, a: 0}
+            key1: {r: 0.26666665, g: 0.99215686, b: 0.2764758, a: 1}
             key2: {r: 0, g: 0, b: 0, a: 1}
             key3: {r: 0, g: 0, b: 0, a: 0}
             key4: {r: 0, g: 0, b: 0, a: 0}
@@ -3581,7 +3581,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614655}
   m_ExposedName: "\u7206\u70B8\u984F\u8272"
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 4
   m_Category: 
   m_Min:
     m_Type:
@@ -3598,7 +3598,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614655}
       inputSlot: {fileID: 8926484042661614594}
-    position: {x: 763, y: 1347}
+    position: {x: 730, y: 1285}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614655
@@ -4176,7 +4176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d78581a96eae8bf4398c282eb0b098bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -4971,7 +4971,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.9528301954269409,"g":0.319108247756958,"b":0.6009825468063355,"a":1.0},"time":0.0},{"color":{"r":0.4480089247226715,"g":0.26633140444755556,"b":0.9905660152435303,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.10000763088464737},{"alpha":1.0,"time":0.800000011920929},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.9529411792755127,"g":0.6957996487617493,"b":0.3176470994949341,"a":1.0},"time":0.0},{"color":{"r":0.2666666507720947,"g":0.9921568632125855,"b":0.27647578716278078,"a":1.0},"time":1.0}],"alphaKeys":[{"alpha":0.0,"time":0.0},{"alpha":1.0,"time":0.10000763088464737},{"alpha":1.0,"time":0.800000011920929},{"alpha":0.0,"time":1.0}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: Color
